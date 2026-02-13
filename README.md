@@ -22,7 +22,6 @@
 * 🧠 **[vla](https://github.com/warlockee/vla)** `private` — Replicating the Qwen/InternVL/LLaVA series of vision-language models from scratch. Multi-phase training with Docker-first deployment. `Python · PyTorch · CUDA · MPS`
 * 🔬 **vlm-distillation-workbench** `private` — Workbench for distilling large vision-language models into smaller, deployable variants. `Python`
 * 🗣️ **[nl2db](https://github.com/warlockee/nl2db)** — Natural language → SQL agent for Amazon Redshift. Supports Gemini & Claude backends with 100% test pass rate. `Python · FastAPI · Gemini · Claude`
-* 📊 **[loglizer](https://github.com/warlockee/loglizer)** — ML-powered log analysis toolkit for automated anomaly detection. `Python`
 
 ### Games & 3D
 
