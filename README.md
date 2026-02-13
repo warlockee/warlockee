@@ -52,10 +52,6 @@ Infra        → K8s,Docker, Redis, PostgreSQL, Nginx, Ceph
 Automation   → Telegram bots, Claude Code, agent swarms
 ```
 
-## GitHub Activity
-
-[![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=warlockee&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/warlockee)
-
 ## Philosophy
 
 > "Ship beats perfect" — I train models, build games, and manage it all from my phone. When the NPCs start writing better code than me, I'll know I've won.
