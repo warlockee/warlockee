@@ -19,13 +19,13 @@
 
 ### ML & AI
 
-* 🧠 **[vla](https://github.com/warlockee/vla)** `private` — Replicating the Qwen/InternVL/LLaVA series of vision-language models from scratch. Multi-phase training with Docker-first deployment. `Python · PyTorch · CUDA · MPS`
+* 🧠 **[VLM](https://github.com/warlockee/vla)** `private` — Replicating the Qwen/InternVL/LLaVA series of vision-language models from scratch. Multi-phase training with Docker-first deployment. `Python · PyTorch · CUDA · MPS`
 * 🔬 **vlm-distillation-workbench** `private` — Workbench for distilling large vision-language models into smaller, deployable variants. `Python`
 * 🗣️ **[nl2db](https://github.com/warlockee/nl2db)** — Natural language → SQL agent for Amazon Redshift. Supports Gemini & Claude backends with 100% test pass rate. `Python · FastAPI · Gemini · Claude`
 
 ### Games & 3D
 
-* 🌍 **polyworld.us** `private` — Browser-based voxel sandbox game with LLM-driven NPCs (Gemini). Full multiplayer with real-time physics. `React · Three.js · Colyseus · Redis · Gemini · Docker`
+* 🌍 **[polyworld.us](https://polyworld.us/)** `private` — Browser-based voxel sandbox game with LLM-driven NPCs (Gemini). Full multiplayer with real-time physics. `React · Three.js · Colyseus · Redis · Gemini · Docker`
 * 🎒 **polyworld-inventory** `private` — Inventory management system for Polyworld. `React · TypeScript · Vite`
 
 ### Infra & DevTools
