@@ -25,7 +25,7 @@
 
 ### Games & 3D
 
-* 🌍 **polyworld** `private` — Browser-based voxel sandbox game with LLM-driven NPCs (Gemini). Full multiplayer with real-time physics. `React · Three.js · Colyseus · Redis · Gemini · Docker`
+* 🌍 **polyworld.us** `private` — Browser-based voxel sandbox game with LLM-driven NPCs (Gemini). Full multiplayer with real-time physics. `React · Three.js · Colyseus · Redis · Gemini · Docker`
 * 🎒 **polyworld-inventory** `private` — Inventory management system for Polyworld. `React · TypeScript · Vite`
 
 ### Infra & DevTools
