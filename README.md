@@ -54,7 +54,7 @@ Automation   → Telegram bots, Claude Code, agent swarms
 
 ## GitHub Activity
 
-[![GitHub Contribution Graph](https://ghchart.rshah.org/warlockee)](https://github.com/warlockee)
+[![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=warlockee&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/warlockee)
 
 ## Philosophy
 
