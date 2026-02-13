@@ -70,7 +70,7 @@ Automation   → Telegram bots, Claude Code, agent swarms
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/warlockee)
+[![GitHub Streak](https://streak-stats.demolab.com?user=warlockee&theme=dark)](https://github.com/warlockee)
 
 <!--
   🔮 Uncomment and fill in your social links:
