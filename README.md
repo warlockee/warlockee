@@ -15,13 +15,7 @@
 
 > Deep in vibe-coding mode — training models, orchestrating agent swarms from my phone, and building games where NPCs think for themselves. Ship fast, iterate faster.
 
-## 🔮 Current Projects
-
-### ML & AI
-
-* 🧠 **[VLM](https://github.com/warlockee/vla)** `private` — Replicating the Qwen/InternVL/LLaVA series of vision-language models from scratch. Multi-phase training with Docker-first deployment. `Python · PyTorch · CUDA · MPS`
-* 🔬 **vlm-distillation-workbench** `private` — Workbench for distilling large vision-language models into smaller, deployable variants. `Python`
-* 🗣️ **[nl2db](https://github.com/warlockee/nl2db)** — Natural language → SQL agent for Amazon Redshift. Supports Gemini & Claude backends with 100% test pass rate. `Python · FastAPI · Gemini · Claude`
+## 🔮 Projects
 
 ### Games & 3D
 
@@ -31,8 +25,6 @@
 ### Infra & DevTools
 
 * 📡 **[Teleterm](https://github.com/warlockee/teleterm)** — Control remote Linux/macOS terminals via Telegram. Command your agent swarms from your pocket. `C`
-* 💬 **infering** `private` — All-in-one chat platform with multi-LLM backend (ChatGPT, DeepSeek, Gemini, Claude, Grok + local models), real-time streaming, and personalized news feeds. `React · FastAPI · Node.js · Docker`
-* 📦 **Model Releaser** `private` — Docker release registry for PyTorch/ML teams. Version management, metadata tracking, and deployment coordination with Python SDK. `FastAPI · React · PostgreSQL · Ceph`
 * 🐕 **readog** `private` — Chrome browser extension for reading and data extraction. `JavaScript · Shell`
 
 ## ⚡ What I Do
