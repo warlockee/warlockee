@@ -17,6 +17,10 @@
 
 ## 🔮 Projects
 
+### ML & Research
+
+* 🧪 **[orze](https://github.com/warlockee/orze)** — Auto-research on autopilot. Runs the full loop: generate ideas → train on GPUs → evaluate → learn → repeat. Multi-agent, multi-machine, filesystem-coordinated. `Python · PyTorch · Claude`
+
 ### Games & Fun
 
 * 🌍 **[polyworld.us](https://polyworld.us/)** `private` — Browser-based voxel sandbox game with LLM-driven NPCs (Gemini). Full multiplayer with real-time physics. `React · Three.js · Colyseus · Redis · Gemini · Docker`
