@@ -17,12 +17,12 @@
 
 ## 🔮 Projects
 
-### Games & 3D
+### Games & Fun
 
 * 🌍 **[polyworld.us](https://polyworld.us/)** `private` — Browser-based voxel sandbox game with LLM-driven NPCs (Gemini). Full multiplayer with real-time physics. `React · Three.js · Colyseus · Redis · Gemini · Docker`
 * 🎒 **polyworld-inventory** `private` — Inventory management system for Polyworld. `React · TypeScript · Vite`
 
-### Infra & DevTools
+### Tools
 
 * 📡 **[Teleterm](https://github.com/warlockee/teleterm)** — Control remote Linux/macOS terminals via Telegram. Command your agent swarms from your pocket. `C`
 * 🐕 **readog** `private` — Chrome browser extension for reading and data extraction. `JavaScript · Shell`
