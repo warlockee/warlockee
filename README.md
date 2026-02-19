@@ -17,6 +17,10 @@
 
 ## 🔮 Projects
 
+### MLOps
+
+* 🚀 **[Catapult](https://github.com/warlockee/Catapult)** — Ship models to production, not just track them. Register, build Docker images (25+ templates), deploy with GPU awareness, benchmark latency, evaluate quality — one platform, one command. Comes with a Python SDK, MCP server (42 tools), and React UI. `FastAPI · React · Celery · PostgreSQL · Docker`
+
 ### ML & Research
 
 * 🧪 **[orze](https://github.com/warlockee/orze)** — Auto-research on autopilot. Runs the full loop: generate ideas → train on GPUs → evaluate → learn → repeat. Multi-agent, multi-machine, filesystem-coordinated. `Python · PyTorch · Claude`
