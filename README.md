@@ -28,7 +28,7 @@
 
 ### Tools
 
-* 📡 **[Teleterm](https://github.com/warlockee/teleterm)** — Control remote Linux/macOS terminals via Telegram. Command your agent swarms from your pocket. `C`
+* 📡 **[Teleterm](https://github.com/warlockee/teleterm)** — Control remote Linux/macOS terminals via Telegram. Command your agent swarms from your pocket. 
 * 🐕 **readog** `private` — Chrome browser extension for reading and data extraction. `JavaScript · Shell`
 
 ## ⚡ What I Do
