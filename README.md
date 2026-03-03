@@ -17,6 +17,10 @@
 
 ## 🔮 Projects
 
+### Design & Philosophy
+
+* 📐 **[LLM-Oriented Design (LOD) Patterns](https://github.com/warlockee/llm-oriented-design-patterns)** — Design manifesto for the post-human-readability age. Three principles — Context Management, Feedback Loop, Tooling — that cut token consumption up to 40x. Drop the rules into your AI coding assistant and it writes LLM-friendly code by default.
+
 ### ML & Research
 
 * 🚀 **[Catapult](https://github.com/warlockee/Catapult)** — Ship checkpoints to production in one command, not just track them. Register, build Docker images (25+ templates), deploy with GPU awareness, benchmark latency, evaluate quality — one platform, one command. Comes with a Python SDK, MCP server.
