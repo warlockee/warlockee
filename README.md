@@ -1,6 +1,6 @@
 # Hi, I'm Erik 👋
 
-📍 **Pocket Vibe Coder** | 🤖 **ML  & Agent Wrangler** 
+📍 **Ship fast. Interate faster.** 
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
@@ -13,7 +13,7 @@
 [![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
 
-> Deep in vibe-coding mode — training models, orchestrating agent swarms from my phone, and building games where NPCs think for themselves. Ship fast, iterate faster.
+> Deep in coding mode — training models, orchestrating agent swarms from my phone, and building games where NPCs think for themselves. Ship fast, iterate faster.
 
 ## 🔮 Projects
 
